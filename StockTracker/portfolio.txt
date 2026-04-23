@@ -1,0 +1,5 @@
+Stock Portfolio Summary
+-----------------------
+TSLA -> 34569 × 250 = 8642250
+
+Total Investment = 8642250
